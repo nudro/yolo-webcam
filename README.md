@@ -2,7 +2,7 @@
 
 Real-time object detection through webcam using YOLOv5 (You Only Look Once). This implementation is optimized to run on MacBook Air M3 using CPU-only inference, while still achieving real-time performance.
 
-![YOLO Webcam Detection](screenshot.jpg)
+![YOLO Webcam Detection](yolo-webcam.gif)
 
 ## Features
 
