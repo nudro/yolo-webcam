@@ -1,0 +1,12 @@
+This is a placeholder for the YOLO webcam detection screenshot.
+
+If you don't yet have a personal screenshot, you can use a sample image from 
+the YOLOv5 repository or similar object detection examples to illustrate how
+the application works.
+
+The expected screenshot would show:
+- A webcam feed with bounding boxes around detected objects
+- Labels for each object with confidence scores
+- FPS counter in the top-left corner
+
+Save your screenshot as "screenshot.jpg" in this directory. 

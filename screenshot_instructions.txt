@@ -1,0 +1,14 @@
+## Screenshot Instructions
+
+To capture a screenshot of the YOLOv5 webcam detection:
+
+1. Run the YOLOv5 webcam detection using `./run_yolo_webcam.sh`
+2. When the webcam window appears with object detection, take a screenshot:
+   - On macOS: Press Command + Shift + 4, then select the area
+   - Or, if you prefer full screen: Press Command + Shift + 3
+3. Save the screenshot as "screenshot.jpg" in the root directory of this project
+4. This screenshot will be used in the README.md file
+
+Note: If you prefer not to include your personal webcam image in the repository, 
+you can consider finding a sample YOLOv5 detection image or creating one with a 
+non-personal subject. 
